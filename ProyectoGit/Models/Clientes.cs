@@ -8,11 +8,11 @@ namespace ProyectoGit.Models
     public class Clientes
     {
         public int ClienteId { get; set; }
-        public String Cedula{ get; set; }
-        public String Nombre { get; set; }
-        public String Apellido { get; set; }
-        public String Direccion { get; set; }
-        public String Correo { get; set; }
-        public String Telefono { get; set; }
+        public string Cedula{ get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Direccion { get; set; }
+        public string Correo { get; set; }
+        public string Telefono { get; set; }
     }
 }
